@@ -1,4 +1,4 @@
-import { title } from 'process'
+//import { title } from 'process'
 import React from 'react'
 import Heading from './Heading'
 import Card from './card'
@@ -19,7 +19,7 @@ const data=[
         tags:["HTML","CSS","Typescript","Node"],
     },
     {
-        id:1,
+        id:2,
         title:"Panacloud css",
         desc:"A HTML ,Nextjs and typescript based app for managing and organization projects",
         img:"/panacloud final.JPG",
@@ -27,7 +27,7 @@ const data=[
     },
     
     {
-        id:1,
+        id:3,
         title:"Panacloud website",
         desc:"A HTML ,Nextjs and typescript based app for managing and organization projects",
         img:"/panacloud21.jpg",
